@@ -85,6 +85,7 @@ Olá! Me chamo isabelle duarte muniz, tenho 20 anos e moro no Rio de Janeiro/RJ 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Duarte&theme=radical&include_all_commits=true&custom_title=Technologies" 
 />
 
-
-
+## Entre em contato!
+<a href="isabelled.muniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="www.linkedin.com/in/isabelledm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
